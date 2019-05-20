@@ -2,6 +2,7 @@
 
  This program is intended for simulating soccer game played between two robot teams. These robots have defined behavior by tactics and strategies definitions, which defines how they should behave in certain situations in game field like positions of enemy robots, ball and playmates. As was mentioned this program is intended for simulating soccer game and also to allow user to define his own tactics and strategies for robots. These strategies and tactics are loaded dynamically to simulator in dll file and then scanning because dll file have to keep some structure otherwise it wont work properly. This structure is described bellow.  This project also contains yet complete strategy and tactics project as an example for you. So you can see how it all works inside and you can inspire by it.
 
+Robot soccer simulator is licensed under the GNU General Public License v3.0.
 
 **This manual consists of two chapters:**
 
